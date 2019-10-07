@@ -1,0 +1,30 @@
+PODS:
+  - AnimatableReload (0.1.0)
+  - Realm (3.18.0):
+    - Realm/Headers (= 3.18.0)
+  - Realm/Headers (3.18.0)
+  - RealmSwift (3.18.0):
+    - Realm (= 3.18.0)
+  - SwiftKeychainWrapper (3.4.0)
+
+DEPENDENCIES:
+  - AnimatableReload
+  - RealmSwift (~> 3.18)
+  - SwiftKeychainWrapper (~> 3.4)
+
+SPEC REPOS:
+  trunk:
+    - AnimatableReload
+    - Realm
+    - RealmSwift
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  AnimatableReload: dcef76a16258b82bf845225012aa8f3b1aa7df6c
+  Realm: 7b3d04740facf45e958a514b466a32b04f1113d6
+  RealmSwift: c817b5f374668cf08f649afb05f55d92a787649c
+  SwiftKeychainWrapper: 6fc49fbf7d4a6b0772917acb0e53a1639f6078d6
+
+PODFILE CHECKSUM: de39f8987af2a5814ecf3fe046c432d8178e968f
+
+COCOAPODS: 1.8.0.beta.2

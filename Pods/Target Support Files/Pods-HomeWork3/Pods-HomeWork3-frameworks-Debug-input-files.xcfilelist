@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-HomeWork3/Pods-HomeWork3-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AnimatableReload/AnimatableReload.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/SwiftKeychainWrapper/SwiftKeychainWrapper.framework
