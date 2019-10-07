@@ -16,9 +16,8 @@
 		41267945231E691100693E39 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41267944231E691100693E39 /* Quote.swift */; };
 		41267947231E692D00693E39 /* QuoteProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41267946231E692D00693E39 /* QuoteProvider.swift */; };
 		41267949231E695900693E39 /* QuoteCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41267948231E695900693E39 /* QuoteCell.swift */; };
-		414C57D4234AE4AA008B0DC4 /* click.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 414C57D3234AE4AA008B0DC4 /* click.mp3 */; };
-		414C57D6234AE4BA008B0DC4 /* final.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 414C57D5234AE4B9008B0DC4 /* final.mp3 */; };
-		414C57DA234B0094008B0DC4 /* Epic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 414C57D9234B0094008B0DC4 /* Epic.mp3 */; };
+		414C57DD234B29F7008B0DC4 /* click.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 414C57DB234B29F6008B0DC4 /* click.mp3 */; };
+		414C57DE234B29F7008B0DC4 /* Epic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 414C57DC234B29F6008B0DC4 /* Epic.mp3 */; };
 		41789B272330F82000B04211 /* ConverterQuotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41789B262330F82000B04211 /* ConverterQuotes.swift */; };
 		41AEA21E231FC7C800E383BA /* QuoteDetailViewCellViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41AEA21D231FC7C800E383BA /* QuoteDetailViewCellViewController.swift */; };
 		41BBA7EE2338CE5800C97602 /* AboutMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BBA7ED2338CE5800C97602 /* AboutMe.swift */; };
@@ -38,9 +37,8 @@
 		41267944231E691100693E39 /* Quote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
 		41267946231E692D00693E39 /* QuoteProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteProvider.swift; sourceTree = "<group>"; };
 		41267948231E695900693E39 /* QuoteCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteCell.swift; sourceTree = "<group>"; };
-		414C57D3234AE4AA008B0DC4 /* click.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = click.mp3; path = "../../../Estestvoznanie4/HOME 7/sounds/click.mp3"; sourceTree = "<group>"; };
-		414C57D5234AE4B9008B0DC4 /* final.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = final.mp3; path = "../../../Estestvoznanie4/HOME 7/sounds/final.mp3"; sourceTree = "<group>"; };
-		414C57D9234B0094008B0DC4 /* Epic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Epic.mp3; path = "../../../../Downloads/Epic Cinematic - AShamaluevMusic/Epic.mp3"; sourceTree = "<group>"; };
+		414C57DB234B29F6008B0DC4 /* click.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = click.mp3; sourceTree = "<group>"; };
+		414C57DC234B29F6008B0DC4 /* Epic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Epic.mp3; sourceTree = "<group>"; };
 		41789B262330F82000B04211 /* ConverterQuotes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverterQuotes.swift; sourceTree = "<group>"; };
 		41AEA21D231FC7C800E383BA /* QuoteDetailViewCellViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteDetailViewCellViewController.swift; sourceTree = "<group>"; };
 		41BBA7ED2338CE5800C97602 /* AboutMe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutMe.swift; sourceTree = "<group>"; };
@@ -129,9 +127,8 @@
 		414C57D2234AE492008B0DC4 /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
-				414C57D9234B0094008B0DC4 /* Epic.mp3 */,
-				414C57D5234AE4B9008B0DC4 /* final.mp3 */,
-				414C57D3234AE4AA008B0DC4 /* click.mp3 */,
+				414C57DB234B29F6008B0DC4 /* click.mp3 */,
+				414C57DC234B29F6008B0DC4 /* Epic.mp3 */,
 			);
 			path = Sounds;
 			sourceTree = "<group>";
@@ -219,10 +216,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				41267938231E682600693E39 /* LaunchScreen.storyboard in Resources */,
-				414C57D6234AE4BA008B0DC4 /* final.mp3 in Resources */,
-				414C57D4234AE4AA008B0DC4 /* click.mp3 in Resources */,
+				414C57DD234B29F7008B0DC4 /* click.mp3 in Resources */,
+				414C57DE234B29F7008B0DC4 /* Epic.mp3 in Resources */,
 				41267935231E682600693E39 /* Assets.xcassets in Resources */,
-				414C57DA234B0094008B0DC4 /* Epic.mp3 in Resources */,
 				41267933231E682500693E39 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
